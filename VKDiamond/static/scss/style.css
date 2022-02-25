@@ -48,14 +48,11 @@ table,
 textarea {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   font-size: 16px;
 }
 
 .row {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
 
@@ -95,57 +92,57 @@ textarea {
 }
 
 .col-11 {
-  max-width: calc(100% - (100% /  11));
+  max-width: 90.9090909091%;
   padding: 15px;
 }
 
 .col-10 {
-  max-width: calc(100% - (100% /  10));
+  max-width: 90%;
   padding: 15px;
 }
 
 .col-9 {
-  max-width: calc(100% - (100% /  9));
+  max-width: 88.8888888889%;
   padding: 15px;
 }
 
 .col-8 {
-  max-width: calc(100% - (100% /  8));
+  max-width: 87.5%;
   padding: 15px;
 }
 
 .col-7 {
-  max-width: calc(100% - (100% /  7));
+  max-width: 85.7142857143%;
   padding: 15px;
 }
 
 .col-6 {
-  max-width: calc(100% /  2);
+  max-width: 50%;
   padding: 15px;
 }
 
 .col-5 {
-  max-width: calc(100% /  7);
+  max-width: 14.2857142857%;
   padding: 15px;
 }
 
 .col-4 {
-  max-width: calc(100% /  8);
+  max-width: 12.5%;
   padding: 15px;
 }
 
 .col-3 {
-  max-width: calc(100% /  9);
+  max-width: 11.1111111111%;
   padding: 15px;
 }
 
 .col-2 {
-  max-width: calc(100% /  10);
+  max-width: 10%;
   padding: 15px;
 }
 
 .col-1 {
-  max-width: calc(100% /  11);
+  max-width: 9.0909090909%;
   padding: 15px;
 }
 
@@ -155,57 +152,57 @@ textarea {
 }
 
 .col-xxl-11 {
-  max-width: calc(1280px - (1280px /  11));
+  max-width: 1163.6363636364px;
   padding: 15px;
 }
 
 .col-xxl-10 {
-  max-width: calc(1280px - (1280px /  10));
+  max-width: 1152px;
   padding: 15px;
 }
 
 .col-xxl-9 {
-  max-width: calc(1280px - (1280px /  9));
+  max-width: 1137.7777777778px;
   padding: 15px;
 }
 
 .col-xxl-8 {
-  max-width: calc(1280px - (1280px /  8));
+  max-width: 1120px;
   padding: 15px;
 }
 
 .col-xxl-7 {
-  max-width: calc(1280px - (1280px /  7));
+  max-width: 1097.1428571429px;
   padding: 15px;
 }
 
 .col-xxl-6 {
-  max-width: calc(1280px /  2);
+  max-width: 640px;
   padding: 15px;
 }
 
 .col-xxl-5 {
-  max-width: calc(1280px /  7);
+  max-width: 182.8571428571px;
   padding: 15px;
 }
 
 .col-xxl-4 {
-  max-width: calc(1280px /  8);
+  max-width: 160px;
   padding: 15px;
 }
 
 .col-xxl-3 {
-  max-width: calc(1280px /  9);
+  max-width: 142.2222222222px;
   padding: 15px;
 }
 
 .col-xxl-2 {
-  max-width: calc(1280px /  10);
+  max-width: 128px;
   padding: 15px;
 }
 
 .col-xxl-1 {
-  max-width: calc(1280px /  11);
+  max-width: 116.3636363636px;
   padding: 15px;
 }
 
@@ -215,57 +212,57 @@ textarea {
 }
 
 .col-xl-11 {
-  max-width: calc(1100px - (1100px /  11));
+  max-width: 1000px;
   padding: 15px;
 }
 
 .col-xl-10 {
-  max-width: calc(1100px - (1100px /  10));
+  max-width: 990px;
   padding: 15px;
 }
 
 .col-xl-9 {
-  max-width: calc(1100px - (1100px /  9));
+  max-width: 977.7777777778px;
   padding: 15px;
 }
 
 .col-xl-8 {
-  max-width: calc(1100px - (1100px /  8));
+  max-width: 962.5px;
   padding: 15px;
 }
 
 .col-xl-7 {
-  max-width: calc(1100px - (1100px /  7));
+  max-width: 942.8571428571px;
   padding: 15px;
 }
 
 .col-xl-6 {
-  max-width: calc(1100px /  2);
+  max-width: 550px;
   padding: 15px;
 }
 
 .col-xl-5 {
-  max-width: calc(1100px /  7);
+  max-width: 157.1428571429px;
   padding: 15px;
 }
 
 .col-xl-4 {
-  max-width: calc(1100px /  8);
+  max-width: 137.5px;
   padding: 15px;
 }
 
 .col-xl-3 {
-  max-width: calc(1100px /  9);
+  max-width: 122.2222222222px;
   padding: 15px;
 }
 
 .col-xl-2 {
-  max-width: calc(1100px /  10);
+  max-width: 110px;
   padding: 15px;
 }
 
 .col-xl-1 {
-  max-width: calc(1100px /  11);
+  max-width: 100px;
   padding: 15px;
 }
 
@@ -275,57 +272,57 @@ textarea {
 }
 
 .col-lg-11 {
-  max-width: calc(992px - (992px /  11));
+  max-width: 901.8181818182px;
   padding: 15px;
 }
 
 .col-lg-10 {
-  max-width: calc(992px - (992px /  10));
+  max-width: 892.8px;
   padding: 15px;
 }
 
 .col-lg-9 {
-  max-width: calc(992px - (992px /  9));
+  max-width: 881.7777777778px;
   padding: 15px;
 }
 
 .col-lg-8 {
-  max-width: calc(992px - (992px /  8));
+  max-width: 868px;
   padding: 15px;
 }
 
 .col-lg-7 {
-  max-width: calc(992px - (992px /  7));
+  max-width: 850.2857142857px;
   padding: 15px;
 }
 
 .col-lg-6 {
-  max-width: calc(992px /  2);
+  max-width: 496px;
   padding: 15px;
 }
 
 .col-lg-5 {
-  max-width: calc(992px /  7);
+  max-width: 141.7142857143px;
   padding: 15px;
 }
 
 .col-lg-4 {
-  max-width: calc(992px /  8);
+  max-width: 124px;
   padding: 15px;
 }
 
 .col-lg-3 {
-  max-width: calc(992px /  9);
+  max-width: 110.2222222222px;
   padding: 15px;
 }
 
 .col-lg-2 {
-  max-width: calc(992px /  10);
+  max-width: 99.2px;
   padding: 15px;
 }
 
 .col-lg-1 {
-  max-width: calc(992px /  11);
+  max-width: 90.1818181818px;
   padding: 15px;
 }
 
@@ -335,57 +332,57 @@ textarea {
 }
 
 .col-md-11 {
-  max-width: calc(768px - (768px /  11));
+  max-width: 698.1818181818px;
   padding: 15px;
 }
 
 .col-md-10 {
-  max-width: calc(768px - (768px /  10));
+  max-width: 691.2px;
   padding: 15px;
 }
 
 .col-md-9 {
-  max-width: calc(768px - (768px /  9));
+  max-width: 682.6666666667px;
   padding: 15px;
 }
 
 .col-md-8 {
-  max-width: calc(768px - (768px /  8));
+  max-width: 672px;
   padding: 15px;
 }
 
 .col-md-7 {
-  max-width: calc(768px - (768px /  7));
+  max-width: 658.2857142857px;
   padding: 15px;
 }
 
 .col-md-6 {
-  max-width: calc(768px /  2);
+  max-width: 384px;
   padding: 15px;
 }
 
 .col-md-5 {
-  max-width: calc(768px /  7);
+  max-width: 109.7142857143px;
   padding: 15px;
 }
 
 .col-md-4 {
-  max-width: calc(768px /  8);
+  max-width: 96px;
   padding: 15px;
 }
 
 .col-md-3 {
-  max-width: calc(768px /  9);
+  max-width: 85.3333333333px;
   padding: 15px;
 }
 
 .col-md-2 {
-  max-width: calc(768px /  10);
+  max-width: 76.8px;
   padding: 15px;
 }
 
 .col-md-1 {
-  max-width: calc(768px /  11);
+  max-width: 69.8181818182px;
   padding: 15px;
 }
 
@@ -395,57 +392,57 @@ textarea {
 }
 
 .col-sm-11 {
-  max-width: calc(576px - (576px /  11));
+  max-width: 523.6363636364px;
   padding: 15px;
 }
 
 .col-sm-10 {
-  max-width: calc(576px - (576px /  10));
+  max-width: 518.4px;
   padding: 15px;
 }
 
 .col-sm-9 {
-  max-width: calc(576px - (576px /  9));
+  max-width: 512px;
   padding: 15px;
 }
 
 .col-sm-8 {
-  max-width: calc(576px - (576px /  8));
+  max-width: 504px;
   padding: 15px;
 }
 
 .col-sm-7 {
-  max-width: calc(576px - (576px /  7));
+  max-width: 493.7142857143px;
   padding: 15px;
 }
 
 .col-sm-6 {
-  max-width: calc(576px /  2);
+  max-width: 288px;
   padding: 15px;
 }
 
 .col-sm-5 {
-  max-width: calc(576px /  7);
+  max-width: 82.2857142857px;
   padding: 15px;
 }
 
 .col-sm-4 {
-  max-width: calc(576px /  8);
+  max-width: 72px;
   padding: 15px;
 }
 
 .col-sm-3 {
-  max-width: calc(576px /  9);
+  max-width: 64px;
   padding: 15px;
 }
 
 .col-sm-2 {
-  max-width: calc(576px /  10);
+  max-width: 57.6px;
   padding: 15px;
 }
 
 .col-sm-1 {
-  max-width: calc(576px /  11);
+  max-width: 52.3636363636px;
   padding: 15px;
 }
 
@@ -476,4 +473,54 @@ a {
 .btn:hover {
   background-color: #0d47a1;
 }
-/*# sourceMappingURL=style.css.map */
+
+section.contact-section {
+  min-height: 100vh;
+  background-color: #4285F4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+section.contact-section h2.section-heading {
+  text-align: center;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+section.contact-section form {
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+section.contact-section form .md-container {
+  background-color: aliceblue;
+  margin: auto;
+  border-radius: 5px;
+}
+section.contact-section form .md-container .row {
+  flex-direction: column;
+}
+section.contact-section form .md-container .row .input-container {
+  display: flex;
+  justify-content: space-between;
+}
+section.contact-section form .md-container .row .input-container input {
+  width: 47%;
+}
+section.contact-section form .md-container .row input, section.contact-section form .md-container .row textarea {
+  width: 100%;
+  background-color: #FFFFFF;
+  margin: 8px 0px;
+  padding: 8px 15px;
+  resize: none;
+}
+section.contact-section form .md-container button {
+  margin-top: 10px;
+}
+section.contact-section form .md-container button.btn {
+  padding: 12px 20px;
+}
+section.contact-section form .md-container button.btn.send-message {
+  font-size: 16px;
+  color: #FFFFFF;
+}/*# sourceMappingURL=style.css.map */

@@ -18,11 +18,12 @@ section{
             text-align: center;
             margin-top: 20px;
             .md-container{
-                background-color: $blue-btn-hover;
+                background-color: $bg_light;
                 margin: auto;
                 border-radius: 5px;
                 .row{
                     flex-direction: column;
+                    padding: 10px 20px;
                     .input-container{
                         display: flex;
                         justify-content: space-between;
@@ -34,12 +35,14 @@ section{
                         width: 100%;
                         background-color: $white;
                         margin: 8px 0px;
-                        padding: 8px 15px;
+                        padding: 10px 15px;
                         resize: none;
+                        border-radius: 20px;
                     }
                 }
                 button{
                     margin-top: 10px;
+                    margin-bottom: 10px;
                     &.btn{
                         padding: 12px 20px;
                         &.send-message{
